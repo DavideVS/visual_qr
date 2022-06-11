@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/davideveniersegovia/Desktop/UPV/II_semestre/DispositivosMoviles/trabajo_final/visual_qr/build/flutter_barcode_scanner/intermediates/res/merged/release/xml/standalone_badge_gravity_bottom_end.xml",
+        "source": "/Users/davideveniersegovia/.gradle/caches/transforms-2/files-2.1/d465b5bd3ec000602b156d6128eda120/material-1.3.0/res/xml/standalone_badge_gravity_bottom_end.xml"
+    },
+    {
+        "merged": "/Users/davideveniersegovia/Desktop/UPV/II_semestre/DispositivosMoviles/trabajo_final/visual_qr/build/flutter_barcode_scanner/intermediates/res/merged/release/xml/standalone_badge_gravity_bottom_start.xml",
+        "source": "/Users/davideveniersegovia/.gradle/caches/transforms-2/files-2.1/d465b5bd3ec000602b156d6128eda120/material-1.3.0/res/xml/standalone_badge_gravity_bottom_start.xml"
+    },
+    {
+        "merged": "/Users/davideveniersegovia/Desktop/UPV/II_semestre/DispositivosMoviles/trabajo_final/visual_qr/build/flutter_barcode_scanner/intermediates/res/merged/release/xml/standalone_badge_offset.xml",
+        "source": "/Users/davideveniersegovia/.gradle/caches/transforms-2/files-2.1/d465b5bd3ec000602b156d6128eda120/material-1.3.0/res/xml/standalone_badge_offset.xml"
+    },
+    {
+        "merged": "/Users/davideveniersegovia/Desktop/UPV/II_semestre/DispositivosMoviles/trabajo_final/visual_qr/build/flutter_barcode_scanner/intermediates/res/merged/release/xml/standalone_badge.xml",
+        "source": "/Users/davideveniersegovia/.gradle/caches/transforms-2/files-2.1/d465b5bd3ec000602b156d6128eda120/material-1.3.0/res/xml/standalone_badge.xml"
+    },
+    {
+        "merged": "/Users/davideveniersegovia/Desktop/UPV/II_semestre/DispositivosMoviles/trabajo_final/visual_qr/build/flutter_barcode_scanner/intermediates/res/merged/release/xml/standalone_badge_gravity_top_start.xml",
+        "source": "/Users/davideveniersegovia/.gradle/caches/transforms-2/files-2.1/d465b5bd3ec000602b156d6128eda120/material-1.3.0/res/xml/standalone_badge_gravity_top_start.xml"
+    }
+]

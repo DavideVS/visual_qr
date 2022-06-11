@@ -1,0 +1,4 @@
+#Sat Jun 11 22:36:15 CEST 2022
+base.0=/Users/davideveniersegovia/Desktop/UPV/II_semestre/DispositivosMoviles/trabajo_final/visual_qr/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
