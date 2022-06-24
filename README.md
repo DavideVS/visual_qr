@@ -1,16 +1,7 @@
 # visual_qr
 
-A new Flutter project.
+Visual Qr es un proyecto práctico que establece el primer acercamiento al desarrollo de una aplicación con Flutter y, el lenguaje de programación, Dart. Este software y este último lenguaje de programación permiten principalmente desarrollar aplicaciones para dispositivos móviles, Android y iOS, de manera más intuitiva y gráfica. Durante el curso se decidió centrar la línea de investigación del proyecto final: en la generación y comunicación de elementos 2D. Más específicamente en el desarrollo de QR Code y la creación de dibujos y figuras.
 
-## Getting Started
+[VisualQr.pdf](https://github.com/DavideVS/visual_qr/files/8976403/VisualQr.pdf)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://youtu.be/W8-HdhogyVY
